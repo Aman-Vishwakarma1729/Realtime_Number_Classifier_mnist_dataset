@@ -1,5 +1,4 @@
 # Realtime_Number_Classifier_mnist_dataset
-# Real-Time Number Prediction from Camera using CNN
 
 
 ## Introduction
